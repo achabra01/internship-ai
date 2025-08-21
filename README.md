@@ -13,4 +13,5 @@ the changes it made to my google doc.
 
 # MCP servers
 Github: https://smithery.ai/server/@smithery-ai/github
+
 Google: https://github.com/a-bonus/google-docs-mcp (this mcp server is added as a submodule to my project)
