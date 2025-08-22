@@ -11,7 +11,9 @@ github repo to my google doc while adhering to the organizational and color codi
 I use in the google doc. Finally, the crew produces a markdown file that summarizes
 the changes it made to my google doc.
 
-# MCP servers
-Github: https://smithery.ai/server/@smithery-ai/github
+# MCP Servers & Acknowledgements
+GitHub: https://smithery.ai/server/@smithery-ai/github
 
 Google: https://github.com/a-bonus/google-docs-mcp (this mcp server is added as a submodule to my project)
+
+I'd like to acknowledge the official GitHub MCP server which I use for getting internship info, and I'd like to acknowledge a-bonus for their google-docs-mcp which I use for connecting my Google account to my agents
